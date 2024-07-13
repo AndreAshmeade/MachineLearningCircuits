@@ -28,7 +28,7 @@ Circuit.prototype = {
   },
 };
 
-// SVM class
+// Support Vector Machine 
 var SVM = function () {
   //random initial parameter values
   this.a = new Unit(1.0, 0.0);
